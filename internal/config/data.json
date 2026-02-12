@@ -1,0 +1,37 @@
+[
+  {
+    "id": "5b5bca59-1f5f-410e-b1b6-171c842ef4f9",
+    "name": "Monitor",
+    "price": 399.99,
+    "quantity": 5,
+    "category": "Electronics"
+  },
+  {
+    "id": "ed1daea7-94c1-4302-b920-7ce4f5efe607",
+    "name": "Mobile",
+    "price": 779.99,
+    "quantity": 10,
+    "category": "Electronics"
+  },
+  {
+    "id": "ce8d3ff8-0a09-4972-8af3-b95e8fd7da28",
+    "name": "VGI",
+    "price": 779.99,
+    "quantity": 10,
+    "category": "Electronics"
+  },
+  {
+    "id": "ca478ca9-cd22-4007-be01-d70b8bd9bb2d",
+    "name": "Gaming Laptop",
+    "price": 1499.99,
+    "quantity": 8,
+    "category": "Electronics"
+  },
+  {
+    "id": "0706f289-69b1-4747-8c8d-6551bedc6e95",
+    "name": "Mouse",
+    "price": 29.99,
+    "quantity": 50,
+    "category": "Accessories"
+  }
+]

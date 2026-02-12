@@ -1,0 +1,3 @@
+storage_backend: file
+file_path: internal/config/data.json
+log_level: info

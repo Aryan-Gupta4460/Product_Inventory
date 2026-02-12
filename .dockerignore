@@ -1,0 +1,15 @@
+vendor
+.git
+.gitignore
+Dockerfile
+README.md
+tests
+*.md
+*.DS_Store
+*.env
+node_modules
+**/*.log
+.idea
+.vscode
+bin
+coverage.out
